@@ -12,7 +12,7 @@ make
 Resulting data will be retained in the file `data.csv` which can be plotted using the corresponding `plot_sexalloc.r` R script.
 
 ## Examples
-Charnov's candidate ES predicts `r* = n/(n+1). Hence, for `n=0.3` we have `r*=0.23` which is pretty close to what the simulation shows in the figure below:
+Charnov's candidate ES predicts `r* = n/(n+1)`. Hence, for `n=0.3` we have `r*=0.23` which is pretty close to what the simulation shows in the figure below:
 
 ![n03](https://github.com/bramkuijper/charnov_1979/blob/main/img/rplot_n03.png?raw=true)
 
@@ -20,3 +20,4 @@ Similarly, for `n=0.8` we would predict `r*=0.45` again close to what we find he
 
 ![n08](https://github.com/bramkuijper/charnov_1979/blob/main/img/rplot_n08.png?raw=true)
 
+For values of `n>1.0` we find evolutionary branching into males and females as expected.
