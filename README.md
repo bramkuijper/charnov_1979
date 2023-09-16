@@ -20,4 +20,4 @@ Similarly, for `n=0.8` we would predict `r*=0.45` again close to what we find he
 
 ![n08](https://github.com/bramkuijper/charnov_1979/blob/main/img/rplot_n08.png?raw=true)
 
-For values of `n>1.0` we find evolutionary branching into males and females as expected.
+If one runs the thing for `n>1.0` we find evolutionary branching into males and females as expected (not shown here).
