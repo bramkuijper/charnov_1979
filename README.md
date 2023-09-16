@@ -1,5 +1,5 @@
 # Individual-based simulation of Charnov (1979)
-Evolution of sex allocation in hermaphrodites with ova fitness wf=r and pollen fitness `wm=r^n`. Written in C++.
+Evolution of sex allocation in hermaphrodites with ova fitness `wf=1.0 - r` and pollen fitness `wm=r^n`. Written in C++.
 
 See Charnov (1979) PNAS [https://doi.org/10.1073/pnas.76.5.2480](https://doi.org/10.1073/pnas.76.5.2480)
 
